@@ -1,0 +1,9 @@
+html body {
+    background-color: black;
+}
+
+.calculator-body {
+    background-color: darkblue;
+    width: 400px;
+    height: 400px;
+}
